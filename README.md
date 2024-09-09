@@ -1,6 +1,6 @@
 # Developing a Predictive Machine Learning Pipeline for London's Climate
 
-## Project Description
+## Project Introduction
 As climate change continues to impact global weather patterns, accurate weather forecasting has become increasingly critical for various industries. This project aims to develop a machine learning pipeline to predict the climate in London, England, with a focus on forecasting the mean temperature in degrees Celsius (°C).
 
 Given the complexity of weather prediction, multiple experiments are required to determine the most effective approach. The project involves testing various regression models to predict the mean temperature, utilizing a combination of Scikit-learn and MLflow for model development and tracking.
