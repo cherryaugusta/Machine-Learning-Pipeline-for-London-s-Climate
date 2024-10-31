@@ -1,4 +1,6 @@
-# Developing a Predictive Machine Learning Pipeline for London's Climate
+# Developing a Predictive Machine Learning Pipeline for London's Climate*
+
+> **Note:** This project is a solution to a guided project on [DataCamp](https://www.datacamp.com/projects/1725).
 
 ## Project Introduction
 As climate change continues to impact global weather patterns, accurate weather forecasting has become increasingly critical for various industries. This project aims to develop a machine learning pipeline to predict the climate in London, England, with a focus on forecasting the mean temperature in degrees Celsius (°C).
@@ -44,3 +46,7 @@ The performance of three regression models was evaluated based on Root Mean Squa
 
 ## Conclusion
 The experiment results indicate that the **Linear Regression** model achieved the lowest RMSE of **0.9166**, demonstrating the best predictive accuracy among the models tested. The **Random Forest Regressor** followed closely with an RMSE of **0.9189**. In contrast, the **Decision Tree Regressor** had the highest RMSE at **1.2662**, making it the least accurate model in this comparison.
+
+## Acknowledgments
+
+This project was developed as part of a DataCamp guided project. The original project can be found on [DataCamp](https://www.datacamp.com/projects/1725).
