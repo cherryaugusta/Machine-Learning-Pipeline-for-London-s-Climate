@@ -1,6 +1,6 @@
-# Developing a Predictive Machine Learning Pipeline for London's Climate*
+# Developing a Predictive Machine Learning Pipeline for London's Climate
 
-> **Note:** This project is a solution to a guided project on [DataCamp](https://www.datacamp.com/projects/1725).
+> **Note:** This project is a solution to a guided project on [DataCamp](https://www.datacamp.com/projects/1725). This project is shared for educational and portfolio purposes only to showcase my understanding and skills. I have completed this project by adding my insights, adjustments, and interpretations.
 
 ## Project Introduction
 As climate change continues to impact global weather patterns, accurate weather forecasting has become increasingly critical for various industries. This project aims to develop a machine learning pipeline to predict the climate in London, England, with a focus on forecasting the mean temperature in degrees Celsius (°C).
